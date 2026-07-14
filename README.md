@@ -1,9 +1,7 @@
 # Project Overview:
-
 This project uses Linear Regression to predict how much customers spend annually based on their engagement with an e-commerce platform. 
 
 ## Objective: 
-
 Identify the factors that most influence customer spending and generate actionable business insights.
 
 ## Dataset:
@@ -33,15 +31,18 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 ## Results:
 (image)
 MAE: 
-MSE: 
+
+MSE:
+
 RMSE: 
+
 R² Score: 
 
 ## Key Insights:
-Length of Membership was the strongest predictor.
-Time on App positively influenced spending.
-Time on Website had little impact.
-The model produced randomly distributed residuals.
+- Length of Membership was the strongest predictor.
+- Time on App positively influenced spending.
+- Time on Website had little impact.
+- The model produced randomly distributed residuals.
 
 ## Business Recommendation
 The analysis suggests that customer loyalty (Length of Membership) and engagement through the mobile application contribute more to annual spending than website usage.
