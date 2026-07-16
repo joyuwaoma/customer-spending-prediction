@@ -30,13 +30,6 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ## Results:
 (image)
-MAE: 
-
-MSE:
-
-RMSE: 
-
-R² Score: 
 
 ## Key Insights:
 - Length of Membership was the strongest predictor.
