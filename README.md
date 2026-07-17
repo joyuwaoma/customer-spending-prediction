@@ -29,7 +29,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 7. Residual Analysis
 
 ## Results:
-(image)
+![mean](https://github.com/joyuwaoma/customer-spending-prediction/blob/main/Mean.png)
 
 ## Key Insights:
 - Length of Membership was the strongest predictor.
