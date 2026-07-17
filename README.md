@@ -31,6 +31,8 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 ## Results:
 ![mean](https://github.com/joyuwaoma/customer-spending-prediction/blob/main/Mean.png)
 
+![RC](https://github.com/joyuwaoma/customer-spending-prediction/blob/main/Regression%20Coeffient.png)
+
 ## Key Insights:
 - Length of Membership was the strongest predictor.
 - Time on App positively influenced spending.
